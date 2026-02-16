@@ -98,7 +98,4 @@ npm start
 CHECK UPTIME SERVER STATUS:
 
 [BOT STATUS](https://maintenance.advinservers.com/cmdu86fmy00yfy6jgi3h8qvc3)
-
-INSPIRED BY [HUTAO MY WAIFU](https://genshin--impact-fandom-com.translate.goog/wiki/Hu_Tao?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc)
-
----------
+---
